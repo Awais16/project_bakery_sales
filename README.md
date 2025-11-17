@@ -1,7 +1,18 @@
-# Project Bakery Sales
-## We are Raum 5
+# Bakery Sales Data Analysis
 
-first.ipynb can be used for the first task as team
-We can put all the csv data in data directory 
+## Team Members (Raum#5)
+- Awais 
+- Jerry 
+- Paida 
+- Yousra
 
 
+## Data Description (Availability and Shape)
+### KIWO
+- Kiwo.csv
+- Columns (Date: YYYY-MM-DD), Kieler woche: 0 or 1)
+### umsatzdate_gekuerzt
+- Columns (id,Datum,Warengruppe,Umsatz)
+
+### wetter.csv
+- Columns (Datum,Bewoelkung,Temperatur,Windgeschwindigkeit,Wettercode)

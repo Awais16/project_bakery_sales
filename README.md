@@ -29,8 +29,8 @@ If successful, we'll have flexed some new skills in a real world example. For ba
 
 
 ### Notes
-first.ipynb can be used for the playground and testing environment.
-We can put all the csv data in data directory and it will be ignroed so that we are not pushing any data file to repo.
+- first.ipynb can be used for the playground and testing environment.
+- We can put all the csv data in data directory and it will be ignroed so that we are not pushing any data file to repo.
 
 
 
@@ -39,3 +39,12 @@ We can put all the csv data in data directory and it will be ignroed so that we 
 1. Clone the repository.
 2. Add your data files to the `data/` directory.
 3. Open and run the notebooks in your preferred environment.
+
+### Git Workflow
+We are following trunk base workflow for git
+-> Git checkout main
+-> Pull main branch: git pull main 
+-> Create a feature branch: git branch -b feat/new_feat
+-> create a pull request from your branch to main
+
+**Happy Coding :)**

@@ -42,9 +42,10 @@ If successful, we'll have flexed some new skills in a real world example. For ba
 
 ### Git Workflow
 We are following trunk base workflow for git
--> Git checkout main
--> Pull main branch: git pull main 
--> Create a feature branch: git branch -b feat/new_feat
--> create a pull request from your branch to main
+- Git checkout main
+- Pull main branch: git pull main 
+- Create a feature branch: git branch -b feat/new_feat
+- Commit Changes and push to your branch
+- create a pull request from your branch (feat/new_feat) to main
 
 **Happy Coding :)**
